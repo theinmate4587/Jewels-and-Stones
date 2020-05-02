@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numJewelsInStones(string J, string S) {
-     
+     //Can u do it in constant time?
         
         map<char,int> mp;
         
